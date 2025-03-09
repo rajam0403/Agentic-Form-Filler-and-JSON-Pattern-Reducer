@@ -1,0 +1,83 @@
+Field Name,Value
+name,John Doe
+first name,John
+last name,Doe
+middle name,Michael
+address,123 Main St, Some City, Some Country
+street address,123 Main St
+city,Some City
+county,Some County
+state,Some State
+postal code,12345
+zip code,12345
+country,USA
+phone number,+1234567890
+mobile number,+1234567890
+home phone,+0987654321
+email,johndoe@example.com
+work email,john.doe@company.com
+gender,Male
+date of birth,01/01/1980
+age,45
+marital status,Married
+nationality,American
+social security number,123-45-6789
+passport number,X1234567
+driver's license Number,D1234567
+emergency contact name,Jane Doe
+emergency contact phone,+0987654321
+relationship,Spouse
+employer,Acme Corp
+job title,Software Engineer
+department,Engineering
+manager,Jane Smith
+employee ID,123456
+office location,Building A, 3rd Floor
+work phone,+11234567890
+work address,456 Business Rd, Business City, USA
+bank account number,123456789012
+bank name,Some Bank
+bank branch,Some City Branch
+credit card number,4111111111111111
+credit card expiration,12/25
+credit card CVV,123
+billing address,123 Main St, Some City, Some Country
+payment method,Credit Card
+payment amount,$500.00
+invoice number,INV123456
+purchase order Number,PO123456
+shipping address,123 Main St, Some City, Some Country
+shipping method,Standard Shipping
+billing phone number,+1234567890
+health insurance provider,HealthCare Inc.
+policy number,HC123456
+primary care physician,Dr. John Smith
+physician phone,+11234567890
+medical condition,Asthma
+allergies,Peanuts
+prescription medications,Albuterol
+height,5'9"
+weight,160 lbs
+blood type,O+
+emergency medical contact name,Jane Doe
+emergency medical contact phone,+0987654321
+insurance id number,INS123456
+previous employer,Tech Solutions Inc.
+previous job title,Senior Developer
+previous employer phone,+11234567890
+educational institution,Some University
+degree,Bachelor of Science in Computer Science
+year Graduated,2002
+major,Computer Science
+high school,Some High School
+high school graduation year,1998
+reference name,Michael Johnson
+reference phone,+1234567890
+reference relationship,Colleague
+reference email,michael.johnson@example.com
+signature,John Doe
+date,02/01/2025
+time,12:30 PM
+agreement,Yes, I agree
+consent,Yes
+additional comments,Looking forward to joining the team!
