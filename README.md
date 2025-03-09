@@ -18,7 +18,7 @@ There are **two components** to this solution. The first performs the scraping a
 
 In order to run the first component, **you must have scrapy, pypdf, os, and urllib installed in your Python environment.** You can then run the first component using the following command in your terminal: 
 <br>```scrapy crawl dor_spider```
-This will save only truly fillable PDFs from the Washington State Department of Revenue website. It will save these to the following path: "pdf_scraper/fillable_pdfs"
+<br>This will save only truly fillable PDFs from the Washington State Department of Revenue website. It will save these to the following path: "pdf_scraper/fillable_pdfs"
 
 In order to run the second component, **you must have successfully run the first part of the solution such that there are fillable PDFs in the path "pdf_scraper/fillable_pdfs" and you must have csv, os, pypdf, and pymupdf installed in your Python environment.** You can run the second component using the following command in your terminal:
 <br>```python3 fill_pdfs.py```
